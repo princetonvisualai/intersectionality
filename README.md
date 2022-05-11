@@ -1,3 +1,5 @@
+Code for [Towards Intersectionality in Machine Learning: Including More Identities, Handling Underrepresentation, and Performing Evaluation](https://arxiv.org/abs/2205.04610): Angelina Wang, Vikram V. Ramaswamy, and Olga Russakovsky (FAccT 2022)
+
 # Scripts to run
 
 Can also add command line arguments like "--experiments 1 2" to specify which of the 4 experiments to run
